@@ -1,0 +1,5 @@
+#!/bin/sh
+
+if [ -f "/tmp/libqt5im-nimf.so-2019.08.14" ] ; then
+    cp -af /tmp/libqt5im-nimf.so-2019.08.14 /usr/lib/x86_64-linux-gnu/qt5/plugins/platforminputcontexts/libqt5im-nimf.so || true
+fi    

@@ -1,3 +1,10 @@
+nimf (1.3.0hamonikr40.4) stable; urgency=medium
+
+  * patch for hoffice11(한글2020Beta) on HamoniKR 4.0
+   - change libqt5im-nimf.so to nimf-2019.08.14 ver libqt5im-nimf.so
+
+ -- HamoniKR <pkg@hamonikr.org>  Tue, 01 Dec 2020 17:01:14 +0900
+
 nimf (1.3.0hamonikr40.3) stable; urgency=medium
 
   * Update nimf/configure.ac
